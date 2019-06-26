@@ -1,0 +1,28 @@
+{
+  "name": "sample-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunmishra152/Node-Mongo-Project.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "beausalons"
+  ],
+  "author": "Arun Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunmishra152/Node-Mongo-Project/issues"
+  },
+  "homepage": "https://github.com/arunmishra152/Node-Mongo-Project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.1"
+  }
+}
